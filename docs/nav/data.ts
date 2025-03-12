@@ -466,7 +466,7 @@ export const NAV_DATA: NavData[] = [
       },
     ],
   },
-  [
+
     {
       "title": "收藏夹栏",
       "items": [
@@ -13101,8 +13101,7 @@ export const NAV_DATA: NavData[] = [
           "link": "javascript:(function(){ window.open('https://music.163.com/#/search/m/?s='+'%s');%20window.open('https://y.qq.com/n/ryqq/search?w='+'%s');%20window.open('https://music.apple.com/cn/search?term='+'%s');%20})();"
         }
       ]
-    }
-  ],
+    },
   {
     title: '前端学习资料',
     items: [
