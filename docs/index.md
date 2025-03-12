@@ -3,23 +3,20 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: 小齐的
+  text: 前端导航页面
+  tagline: 基于 VitePress 的个人前端导航页面
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: 于小齐
   actions:
-    - text: 茂茂物语
+    - text: 小齐的本子
       link: https://notes.fe-mm.com
-    - text: 前端导航
+    - text: 导航页面
       link: /nav/
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
+    - text: 关于爱
+      link: https://baidu.com
 features:
   - icon: 📖
     title: 前端物语
@@ -51,7 +48,6 @@ features:
     details: '<small class="bottom-small">一个想躺平的小开发</small>'
     link: https://notes.fe-mm.com/mao
 ---
-
 <style>
 /*爱的魔力转圈圈*/
 .m-home-layout .image-src:hover {
